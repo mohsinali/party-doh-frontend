@@ -2,6 +2,8 @@ import { Component } from '@angular/core';
 import { Angular2TokenService } from 'angular2-token';
 import { environment } from '../environments/environment';
 
+import { PartyPackagesSliderComponent } from './home/party-packages-slider/party-packages-slider.component';
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
